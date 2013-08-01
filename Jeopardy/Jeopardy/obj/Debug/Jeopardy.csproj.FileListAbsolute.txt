@@ -1,0 +1,9 @@
+C:\Users\acloudy\Documents\Visual Studio 2010\Projects\Jeopardy\Jeopardy\bin\Debug\Jeopardy.dll
+C:\Users\acloudy\Documents\Visual Studio 2010\Projects\Jeopardy\Jeopardy\bin\Debug\Jeopardy.pdb
+C:\Users\acloudy\Documents\Visual Studio 2010\Projects\Jeopardy\Jeopardy\bin\Debug\Jeopardy.xml
+C:\Users\acloudy\Documents\Visual Studio 2010\Projects\Jeopardy\Jeopardy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\acloudy\Documents\Visual Studio 2010\Projects\Jeopardy\Jeopardy\obj\Debug\Interop.WMPLib.dll
+C:\Users\acloudy\Documents\Visual Studio 2010\Projects\Jeopardy\Jeopardy\obj\Debug\Jeopardy.csproj.ResolveComReference.cache
+C:\Users\acloudy\Documents\Visual Studio 2010\Projects\Jeopardy\Jeopardy\obj\Debug\Jeopardy.dll
+C:\Users\acloudy\Documents\Visual Studio 2010\Projects\Jeopardy\Jeopardy\obj\Debug\Jeopardy.pdb
+C:\Users\acloudy\Documents\Visual Studio 2010\Projects\Jeopardy\Jeopardy\bin\Debug\Jeopardy Theme.mp3
